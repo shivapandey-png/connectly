@@ -1,3 +1,3 @@
-# 🌟 Fullstack Scheduling Calendar SaaS Platform - _epic meet
+# 🌟 Fullstack Scheduling Calendar SaaS Platform - _epic meetly
 ly_
 
